@@ -1,1 +1,2 @@
 # Foodie-We
+FoodieWe is a dynamic restaurant website built with ReactJS and Bootstrap 5. It features seamless navigation and incorporates sections for home, about, services, and contact. The website stands out with captivating CSS animations and properties that enhance user engagement and visual appeal. Through ReactJS, it offers a responsive and interactive user experience, while Bootstrap 5 ensures a sleek and modern design aesthetic. Overall, FoodieWe delivers an enticing online presence for food enthusiasts, combining functionality with aesthetic charm.
